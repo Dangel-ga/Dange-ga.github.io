@@ -1,0 +1,57 @@
+body{
+  background: grey;
+}
+
+nav {
+  background:#901835 ;
+  color:black !important;
+}
+.contenedor
+{ width:400px;
+  height:320px;
+  border-radius: 20px;
+  background-color:#901835;
+  color:white;
+  padding: 12px;
+  float:none;
+  margin:100px 500px;
+}
+
+.accede{
+  font-size: 22PX;
+  margin: 5px;
+  text-align: center;
+}
+
+.usuario{
+  font-size: 18px;
+  text-align:center;
+}
+
+.cont{
+  border-radius: .25rem;
+  width: 100%;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  height: 20px;
+
+}
+
+.boton{
+  background-color: #349582;
+  border: none;
+  color: white;
+  padding: 6px 12px 6px 12px;
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+.cap{
+  text-decoration: none;
+  color: #007bff;
+  font-size: 15px;
+}
+
+a {
+  color:white;
+}
